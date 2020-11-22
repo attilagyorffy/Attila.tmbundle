@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Viktor Bergehall</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>comment</key>
+	<string>Port of Atom theme Duotone Dark https://github.com/simurai/duotone-dark-syntax</string>
+	<key>name</key>
+	<string>Duotone Dark</string>
+	<key>semanticClass</key>
+	<string>theme.dark.duotone_dark</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#2A2734</string>
+				<key>caret</key>
+				<string>#FFA852</string>
+				<key>foreground</key>
+				<string>#C4B8FE</string>
+				<key>invisibles</key>
+				<string>#413D51</string>
+				<key>lineHighlight</key>
+				<string>#45425742</string>
+				<key>selection</key>
+				<string>#454257</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uno-4</string>
+			<key>scope</key>
+			<string>comment,
+punctuation,
+text.html.mt meta.tag.sgml.html meta.tag.sgml.doctype.html,
+text.html.mt meta.tag.sgml.html meta.tag.sgml.doctype.html,
+entity.name.tag.doctype.html,
+text.html.mt comment.block.html,
+source.js comment.line.double-slash.js punctuation.definition.comment.js,source.php source.php.embedded.block.html punctuation.section.embedded.begin.php,source.php source.php.embedded.block.html comment.line.double-slash.php punctuation.definition.comment.php, source.php source.php.embedded.block.html variable.other.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6C6783</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Duo-1</string>
+			<key>scope</key>
+			<string>string,
+constant.numeric,
+constant.character, constant.other,
+storage.type,
+support.constant,
+constant.language,
+support.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCC99</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uno-2</string>
+			<key>scope</key>
+			<string>variable,
+variable.language,
+variable.other,
+variable.parameter, entity.other.attribute-name.html,
+variable.other.php,
+variable.other.php punctuation.definition.variable.php, source.php source.php.embedded.block.html meta.function.php meta.function.arguments.php meta.function.argument.no-default.php variable.other.php,
+source.php source.php.embedded.block.html variable.other.property.php,
+source.php source.php.embedded.block.html meta.function.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#C4B8FE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Duo-2</string>
+			<key>scope</key>
+			<string>keyword,
+storage,
+source.js keyword.operator.js, source.js meta.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E49E58</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uno-1</string>
+			<key>scope</key>
+			<string>entity.name.class,
+entity.other.inherited-class,
+entity.name.function,
+entity.name.tag,
+entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EEEBFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uno-3</string>
+			<key>scope</key>
+			<string>support.type, support.class, text.html.mt,source.js support.function.dom.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A391FD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Duo-3</string>
+			<key>scope</key>
+			<string>punctuation.definition.string, punctuation.definition.variable, punctuation.definition.parameters, punctuation.definition.array,source.js meta.brace.curly.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7C756E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uno-5</string>
+			<key>scope</key>
+			<string>constant.other.symbol.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCC99</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+</dict>
+</plist>
